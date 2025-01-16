@@ -114,6 +114,7 @@ Good starting values:
 
     area_effect_cloud: 8
     arrow: 16
+    breeze_wind_charge: 8
     dragon_fireball: 3
     egg: 8
     ender_pearl: 8
@@ -129,6 +130,7 @@ Good starting values:
     snowball: 8
     spectral_arrow: 16
     trident: 16
+    wind_charge: 8
     wither_skull: 4
 ```
 
@@ -453,6 +455,7 @@ Good starting values:
         acacia_leaves: 300
         dark_oak_leaves: 300
         mangrove_leaves: 300
+        cherry_leaves: 300
         cactus: 300
         diorite: 300
         granite: 300
